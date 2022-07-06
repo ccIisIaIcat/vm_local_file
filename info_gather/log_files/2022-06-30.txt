@@ -1,0 +1,6 @@
+[okex_websocket]10:19:45.793374 get_orderbook.go:172: websocket连接已建立
+[okex_websocket]10:19:45.824192 get_orderbook.go:102: trade_info建表成功
+[okex_websocket]10:19:45.839856 get_orderbook.go:141: orderbook_info建表成功
+[okex_websocket]10:19:45.840210 get_orderbook.go:199: 订阅已申请,订阅json: {"op":"subscribe","args":[{"channel":"books5","instId":"ETH-USDT"}]}
+[okex_websocket]10:19:45.840210 get_orderbook.go:199: 订阅已申请,订阅json: {"op":"subscribe","args":[{"channel":"trades","instId":"ETH-USDT"}]}
+[okex_websocket]10:20:45.853382 get_orderbook.go:402: 服务已运行 0 小时,未发生异常

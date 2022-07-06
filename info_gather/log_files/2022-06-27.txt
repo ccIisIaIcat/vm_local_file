@@ -1,0 +1,11 @@
+[okex_websocket]23:20:08 test
+[okex_websocket]23:28:53 websocket连接已建立
+[okex_websocket]23:28:53 websocket连接已断开
+[okex_websocket]23:31:45 websocket连接已建立
+[okex_websocket]23:31:45 订阅已申请,订阅json: {"op":"subscribe","args":[{"channel":"books","instId":"BTCUSDT"}]}
+[okex_websocket]23:32:24 websocket连接已建立
+[okex_websocket]23:32:24 订阅已申请,订阅json: {"op":"subscribe","args":[{"channel":"books","instId":"BTCUSDT"}]}
+[okex_websocket]23:33:24 websocket连接已建立
+[okex_websocket]23:33:24 订阅已申请,订阅json: {"op":"subscribe","args":[{"channel":"books","instId":"BTC-USDT"}]}
+[okex_websocket]23:34:17 websocket连接已建立
+[okex_websocket]23:34:17 订阅已申请,订阅json: {"op":"subscribe","args":[{"channel":"books","instId":"BTC-USDT"}]}

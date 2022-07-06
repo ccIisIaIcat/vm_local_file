@@ -1,0 +1,339 @@
+[okex_websocket]12:19:21 get_orderbook.go:69: websocket连接已建立
+[okex_websocket]12:19:21 get_orderbook.go:95: 订阅已申请或取消,订阅json: {"op":"subscribe","args":[{"channel":"books5","instId":"BTC-USDT"}]}
+[okex_websocket]12:19:24 get_orderbook.go:95: 订阅已申请或取消,订阅json: {"op":"unsubscribe","args":[{"channel":"books6","instId":"BTC-USDT"}]}
+[okex_websocket]12:19:24 get_orderbook.go:106: websocket_get_err: read tcp 26.26.26.1:62607->8.210.249.170:8443: use of closed network connection
+[okex_websocket]12:19:24 get_orderbook.go:106: websocket_get_err: read tcp 26.26.26.1:62607->8.210.249.170:8443: use of closed network connection
+[okex_websocket]12:19:24 get_orderbook.go:106: websocket_get_err: read tcp 26.26.26.1:62607->8.210.249.170:8443: use of closed network connection
+[okex_websocket]12:19:24 get_orderbook.go:106: websocket_get_err: read tcp 26.26.26.1:62607->8.210.249.170:8443: use of closed network connection
+[okex_websocket]12:19:24 get_orderbook.go:106: websocket_get_err: read tcp 26.26.26.1:62607->8.210.249.170:8443: use of closed network connection
+[okex_websocket]12:19:24 get_orderbook.go:106: websocket_get_err: read tcp 26.26.26.1:62607->8.210.249.170:8443: use of closed network connection
+[okex_websocket]12:19:24 get_orderbook.go:75: websocket连接已断开
+[okex_websocket]12:20:40.852469 get_orderbook.go:69: websocket连接已建立
+[okex_websocket]12:20:40.853492 get_orderbook.go:95: 订阅已申请或取消,订阅json: {"op":"subscribe","args":[{"channel":"books5","instId":"BTC-USDT"}]}
+[okex_websocket]12:20:42.387850 get_orderbook.go:95: 订阅已申请或取消,订阅json: {"op":"unsubscribe","args":[{"channel":"books6","instId":"BTC-USDT"}]}
+[okex_websocket]12:20:42.387850 get_orderbook.go:106: websocket_get_err: read tcp 26.26.26.1:62728->8.210.249.170:8443: use of closed network connection
+[okex_websocket]12:20:42.387850 get_orderbook.go:106: websocket_get_err: read tcp 26.26.26.1:62728->8.210.249.170:8443: use of closed network connection
+[okex_websocket]12:20:42.387850 get_orderbook.go:106: websocket_get_err: read tcp 26.26.26.1:62728->8.210.249.170:8443: use of closed network connection
+[okex_websocket]12:20:42.387850 get_orderbook.go:106: websocket_get_err: read tcp 26.26.26.1:62728->8.210.249.170:8443: use of closed network connection
+[okex_websocket]12:20:42.387850 get_orderbook.go:106: websocket_get_err: read tcp 26.26.26.1:62728->8.210.249.170:8443: use of closed network connection
+[okex_websocket]12:20:42.387850 get_orderbook.go:106: websocket_get_err: read tcp 26.26.26.1:62728->8.210.249.170:8443: use of closed network connection
+[okex_websocket]12:20:42.387850 get_orderbook.go:106: websocket_get_err: read tcp 26.26.26.1:62728->8.210.249.170:8443: use of closed network connection
+[okex_websocket]12:20:42.387850 get_orderbook.go:106: websocket_get_err: read tcp 26.26.26.1:62728->8.210.249.170:8443: use of closed network connection
+[okex_websocket]12:20:42.387850 get_orderbook.go:106: websocket_get_err: read tcp 26.26.26.1:62728->8.210.249.170:8443: use of closed network connection
+[okex_websocket]12:20:42.387850 get_orderbook.go:106: websocket_get_err: read tcp 26.26.26.1:62728->8.210.249.170:8443: use of closed network connection
+[okex_websocket]12:20:42.387850 get_orderbook.go:106: websocket_get_err: read tcp 26.26.26.1:62728->8.210.249.170:8443: use of closed network connection
+[okex_websocket]12:20:42.387850 get_orderbook.go:106: websocket_get_err: read tcp 26.26.26.1:62728->8.210.249.170:8443: use of closed network connection
+[okex_websocket]12:20:42.387850 get_orderbook.go:106: websocket_get_err: read tcp 26.26.26.1:62728->8.210.249.170:8443: use of closed network connection
+[okex_websocket]12:20:42.387850 get_orderbook.go:75: websocket连接已断开
+[okex_websocket]12:20:42.387850 get_orderbook.go:106: websocket_get_err: read tcp 26.26.26.1:62728->8.210.249.170:8443: use of closed network connection
+[okex_websocket]12:26:35.221873 get_orderbook.go:75: websocket连接已建立
+[okex_websocket]12:26:35.222461 get_orderbook.go:101: 订阅已申请或取消,订阅json: {"op":"subscribe","args":[{"channel":"books5","instId":"BTC-USDT"}]}
+[okex_websocket]12:26:37.659684 get_orderbook.go:101: 订阅已申请或取消,订阅json: {"op":"unsubscribe","args":[{"channel":"books6","instId":"BTC-USDT"}]}
+[okex_websocket]12:26:37.660247 get_orderbook.go:81: websocket连接已断开
+[okex_websocket]12:26:37.660247 get_orderbook.go:112: websocket_get_err: read tcp 26.26.26.1:63762->8.218.61.94:8443: use of closed network connection
+[okex_websocket]12:27:04.571876 get_orderbook.go:75: websocket连接已建立
+[okex_websocket]12:27:04.572154 get_orderbook.go:101: 订阅已申请或取消,订阅json: {"op":"subscribe","args":[{"channel":"books5","instId":"BTC-USDT"}]}
+[okex_websocket]12:27:08.524520 get_orderbook.go:101: 订阅已申请或取消,订阅json: {"op":"unsubscribe","args":[{"channel":"books6","instId":"BTC-USDT"}]}
+[okex_websocket]12:27:08.524572 get_orderbook.go:81: websocket连接已断开
+[okex_websocket]12:28:02.735135 get_orderbook.go:75: websocket连接已建立
+[okex_websocket]12:28:02.735910 get_orderbook.go:101: 订阅已申请或取消,订阅json: {"op":"subscribe","args":[{"channel":"books5","instId":"BTC-USDT"}]}
+[okex_websocket]12:28:08.122796 get_orderbook.go:101: 订阅已申请或取消,订阅json: {"op":"unsubscribe","args":[{"channel":"books6","instId":"BTC-USDT"}]}
+[okex_websocket]12:28:08.123358 get_orderbook.go:81: websocket连接已断开
+[okex_websocket]12:28:08.123358 get_orderbook.go:112: websocket_get_err: read tcp 26.26.26.1:63886->8.218.61.94:8443: use of closed network connection
+[okex_websocket]12:31:06.294440 get_orderbook.go:75: websocket连接已建立
+[okex_websocket]12:31:06.295335 get_orderbook.go:101: 订阅已申请或取消,订阅json: {"op":"subscribe","args":[{"channel":"books5","instId":"BTC-USDT"}]}
+[okex_websocket]12:31:12.085924 get_orderbook.go:101: 订阅已申请或取消,订阅json: {"op":"unsubscribe","args":[{"channel":"books6","instId":"BTC-USDT"}]}
+[okex_websocket]12:31:12.086476 get_orderbook.go:81: websocket连接已断开
+[okex_websocket]12:31:33.795393 get_orderbook.go:75: websocket连接已建立
+[okex_websocket]12:31:33.796479 get_orderbook.go:101: 订阅已申请或取消,订阅json: {"op":"subscribe","args":[{"channel":"books5","instId":"BTC-USDT"}]}
+[okex_websocket]12:31:40.514864 get_orderbook.go:101: 订阅已申请或取消,订阅json: {"op":"unsubscribe","args":[{"channel":"books6","instId":"BTC-USDT"}]}
+[okex_websocket]12:31:40.515374 get_orderbook.go:81: websocket连接已断开
+[okex_websocket]12:32:01.285710 get_orderbook.go:75: websocket连接已建立
+[okex_websocket]12:32:01.285710 get_orderbook.go:101: 订阅已申请或取消,订阅json: {"op":"subscribe","args":[{"channel":"books5","instId":"BTC-USDT"}]}
+[okex_websocket]12:32:09.401924 get_orderbook.go:101: 订阅已申请或取消,订阅json: {"op":"unsubscribe","args":[{"channel":"books6","instId":"BTC-USDT"}]}
+[okex_websocket]12:32:09.402470 get_orderbook.go:81: websocket连接已断开
+[okex_websocket]12:33:14.289059 get_orderbook.go:75: websocket连接已建立
+[okex_websocket]12:33:14.289590 get_orderbook.go:101: 订阅已申请或取消,订阅json: {"op":"subscribe","args":[{"channel":"books5","instId":"BTC-USDT"}]}
+[okex_websocket]12:33:19.506792 get_orderbook.go:101: 订阅已申请或取消,订阅json: {"op":"unsubscribe","args":[{"channel":"books6","instId":"BTC-USDT"}]}
+[okex_websocket]12:33:19.507343 get_orderbook.go:112: websocket_get_err: read tcp 26.26.26.1:64584->8.210.249.170:8443: use of closed network connection
+[okex_websocket]12:33:19.507343 get_orderbook.go:81: websocket连接已断开
+[okex_websocket]12:33:33.580821 get_orderbook.go:75: websocket连接已建立
+[okex_websocket]12:33:33.581240 get_orderbook.go:101: 订阅已申请或取消,订阅json: {"op":"subscribe","args":[{"channel":"books5","instId":"BTC-USDT"}]}
+[okex_websocket]12:33:38.448879 get_orderbook.go:101: 订阅已申请或取消,订阅json: {"op":"unsubscribe","args":[{"channel":"books6","instId":"BTC-USDT"}]}
+[okex_websocket]12:33:38.449569 get_orderbook.go:81: websocket连接已断开
+[okex_websocket]13:27:25.431970 get_orderbook.go:75: websocket连接已建立
+[okex_websocket]13:27:25.432548 get_orderbook.go:101: 订阅已申请或取消,订阅json: {"op":"subscribe","args":[{"channel":"books5","instId":"BTC-USDT"}]}
+[okex_websocket]13:38:23.128368 get_orderbook.go:80: websocket连接已建立
+[okex_websocket]13:38:23.128992 get_orderbook.go:106: 订阅已申请或取消,订阅json: {"op":"subscribe","args":[{"channel":"books5","instId":"BTC-USDT"}]}
+[okex_websocket]13:38:28.364863 get_orderbook.go:106: 订阅已申请或取消,订阅json: {"op":"unsubscribe","args":[{"channel":"books6","instId":"BTC-USDT"}]}
+[okex_websocket]13:38:28.365437 get_orderbook.go:86: websocket连接已断开
+[okex_websocket]13:39:31.892487 get_orderbook.go:80: websocket连接已建立
+[okex_websocket]13:39:31.893057 get_orderbook.go:106: 订阅已申请或取消,订阅json: {"op":"subscribe","args":[{"channel":"books5","instId":"BTC-USDT"}]}
+[okex_websocket]13:39:32.898284 get_orderbook.go:106: 订阅已申请或取消,订阅json: {"op":"unsubscribe","args":[{"channel":"books6","instId":"BTC-USDT"}]}
+[okex_websocket]13:39:32.898838 get_orderbook.go:86: websocket连接已断开
+[okex_websocket]13:39:55.920951 get_orderbook.go:80: websocket连接已建立
+[okex_websocket]13:39:55.921129 get_orderbook.go:106: 订阅已申请或取消,订阅json: {"op":"subscribe","args":[{"channel":"books5","instId":"BTC-USDT"}]}
+[okex_websocket]13:39:56.935812 get_orderbook.go:106: 订阅已申请或取消,订阅json: {"op":"unsubscribe","args":[{"channel":"books6","instId":"BTC-USDT"}]}
+[okex_websocket]13:39:56.936320 get_orderbook.go:117: websocket_get_err: read tcp 26.26.26.1:53753->8.218.61.69:8443: use of closed network connection
+[okex_websocket]13:39:56.936320 get_orderbook.go:86: websocket连接已断开
+[okex_websocket]13:40:14.088334 get_orderbook.go:80: websocket连接已建立
+[okex_websocket]13:40:14.088931 get_orderbook.go:106: 订阅已申请或取消,订阅json: {"op":"subscribe","args":[{"channel":"books5","instId":"BTC-USDT"}]}
+[okex_websocket]13:40:15.103315 get_orderbook.go:106: 订阅已申请或取消,订阅json: {"op":"unsubscribe","args":[{"channel":"books6","instId":"BTC-USDT"}]}
+[okex_websocket]13:40:15.103865 get_orderbook.go:86: websocket连接已断开
+[okex_websocket]13:40:15.103865 get_orderbook.go:117: websocket_get_err: read tcp 26.26.26.1:53830->8.218.61.69:8443: use of closed network connection
+[okex_websocket]13:49:57.466817 get_orderbook.go:80: websocket连接已建立
+[okex_websocket]13:49:57.466817 get_orderbook.go:106: 订阅已申请或取消,订阅json: {"op":"subscribe","args":[{"channel":"books5","instId":"BTC-USDT"}]}
+[okex_websocket]13:49:57.467351 get_orderbook.go:106: 订阅已申请或取消,订阅json: {"op":"subscribe","args":[{"channel":"trades","instId":"BTC-USDT"}]}
+[okex_websocket]13:50:06.992243 get_orderbook.go:106: 订阅已申请或取消,订阅json: {"op":"unsubscribe","args":[{"channel":"books6","instId":"BTC-USDT"}]}
+[okex_websocket]13:50:06.993348 get_orderbook.go:86: websocket连接已断开
+[okex_websocket]13:52:46.887563 get_orderbook.go:80: websocket连接已建立
+[okex_websocket]13:52:46.888000 get_orderbook.go:106: 订阅已申请或取消,订阅json: {"op":"subscribe","args":[{"channel":"books5","instId":"BTC-USDT"}]}
+[okex_websocket]13:52:46.888000 get_orderbook.go:106: 订阅已申请或取消,订阅json: {"op":"subscribe","args":[{"channel":"trades","instId":"BTC-USDT"}]}
+[okex_websocket]13:52:55.134136 get_orderbook.go:106: 订阅已申请或取消,订阅json: {"op":"unsubscribe","args":[{"channel":"books6","instId":"BTC-USDT"}]}
+[okex_websocket]13:52:55.134136 get_orderbook.go:117: websocket_get_err: read tcp 26.26.26.1:55947->8.218.61.69:8443: use of closed network connection
+[okex_websocket]13:52:55.134136 get_orderbook.go:86: websocket连接已断开
+[okex_websocket]13:53:11.825210 get_orderbook.go:80: websocket连接已建立
+[okex_websocket]13:53:11.825497 get_orderbook.go:106: 订阅已申请或取消,订阅json: {"op":"subscribe","args":[{"channel":"books5","instId":"BTC-USDT"}]}
+[okex_websocket]13:53:11.825497 get_orderbook.go:106: 订阅已申请或取消,订阅json: {"op":"subscribe","args":[{"channel":"trades","instId":"BTC-USDT"}]}
+[okex_websocket]13:53:39.825521 get_orderbook.go:106: 订阅已申请或取消,订阅json: {"op":"unsubscribe","args":[{"channel":"books6","instId":"BTC-USDT"}]}
+[okex_websocket]13:53:39.826664 get_orderbook.go:86: websocket连接已断开
+[okex_websocket]13:53:39.826664 get_orderbook.go:117: websocket_get_err: read tcp 26.26.26.1:55984->8.218.61.69:8443: use of closed network connection
+[okex_websocket]14:19:39.491717 get_orderbook.go:80: websocket连接已建立
+[okex_websocket]14:19:39.492548 get_orderbook.go:106: 订阅已申请或取消,订阅json: {"op":"subscribe","args":[{"channel":"books5","instId":"BTC-USDT"}]}
+[okex_websocket]14:19:39.492650 get_orderbook.go:106: 订阅已申请或取消,订阅json: {"op":"subscribe","args":[{"channel":"trades","instId":"BTC-USDT"}]}
+[okex_websocket]14:19:40.496534 get_orderbook.go:106: 订阅已申请或取消,订阅json: {"op":"unsubscribe","args":[{"channel":"books6","instId":"BTC-USDT"}]}
+[okex_websocket]14:19:40.496534 get_orderbook.go:86: websocket连接已断开
+[okex_websocket]14:19:54.531238 get_orderbook.go:80: websocket连接已建立
+[okex_websocket]14:19:54.532955 get_orderbook.go:106: 订阅已申请或取消,订阅json: {"op":"subscribe","args":[{"channel":"books5","instId":"BTC-USDT"}]}
+[okex_websocket]14:19:54.532955 get_orderbook.go:106: 订阅已申请或取消,订阅json: {"op":"subscribe","args":[{"channel":"trades","instId":"BTC-USDT"}]}
+[okex_websocket]14:20:04.544304 get_orderbook.go:106: 订阅已申请或取消,订阅json: {"op":"unsubscribe","args":[{"channel":"books6","instId":"BTC-USDT"}]}
+[okex_websocket]14:20:04.544983 get_orderbook.go:117: websocket_get_err: read tcp 26.26.26.1:59246->8.218.61.94:8443: use of closed network connection
+[okex_websocket]14:20:04.544983 get_orderbook.go:86: websocket连接已断开
+[okex_websocket]14:20:35.178269 get_orderbook.go:80: websocket连接已建立
+[okex_websocket]14:20:35.178891 get_orderbook.go:106: 订阅已申请或取消,订阅json: {"op":"subscribe","args":[{"channel":"books5","instId":"BTC-USDT"}]}
+[okex_websocket]14:20:35.178891 get_orderbook.go:106: 订阅已申请或取消,订阅json: {"op":"subscribe","args":[{"channel":"trades","instId":"BTC-USDT"}]}
+[okex_websocket]14:20:45.189073 get_orderbook.go:106: 订阅已申请或取消,订阅json: {"op":"unsubscribe","args":[{"channel":"books6","instId":"BTC-USDT"}]}
+[okex_websocket]14:20:45.190224 get_orderbook.go:117: websocket_get_err: read tcp 26.26.26.1:59318->8.218.61.94:8443: use of closed network connection
+[okex_websocket]14:20:45.190298 get_orderbook.go:86: websocket连接已断开
+[okex_websocket]14:21:15.192414 get_orderbook.go:80: websocket连接已建立
+[okex_websocket]14:21:15.193564 get_orderbook.go:106: 订阅已申请或取消,订阅json: {"op":"subscribe","args":[{"channel":"books5","instId":"BTC-USDT"}]}
+[okex_websocket]14:21:15.193564 get_orderbook.go:106: 订阅已申请或取消,订阅json: {"op":"subscribe","args":[{"channel":"trades","instId":"BTC-USDT"}]}
+[okex_websocket]14:21:25.199819 get_orderbook.go:106: 订阅已申请或取消,订阅json: {"op":"unsubscribe","args":[{"channel":"books5","instId":"BTC-USDT"}]}
+[okex_websocket]14:21:25.199819 get_orderbook.go:117: websocket_get_err: read tcp 26.26.26.1:59396->8.218.61.94:8443: use of closed network connection
+[okex_websocket]14:21:25.199819 get_orderbook.go:86: websocket连接已断开
+[okex_websocket]14:22:45.408643 get_orderbook.go:80: websocket连接已建立
+[okex_websocket]14:22:45.409194 get_orderbook.go:106: 订阅已申请或取消,订阅json: {"op":"subscribe","args":[{"channel":"books","instId":"BTC-USDT"}]}
+[okex_websocket]14:22:45.409194 get_orderbook.go:106: 订阅已申请或取消,订阅json: {"op":"subscribe","args":[{"channel":"trades","instId":"BTC-USDT"}]}
+[okex_websocket]14:23:25.480709 get_orderbook.go:80: websocket连接已建立
+[okex_websocket]14:23:25.481315 get_orderbook.go:106: 订阅已申请或取消,订阅json: {"op":"subscribe","args":[{"channel":"books5","instId":"BTC-USDT"}]}
+[okex_websocket]14:23:25.481315 get_orderbook.go:106: 订阅已申请或取消,订阅json: {"op":"subscribe","args":[{"channel":"trades","instId":"BTC-USDT"}]}
+[okex_websocket]14:23:35.488326 get_orderbook.go:106: 订阅已申请或取消,订阅json: {"op":"unsubscribe","args":[{"channel":"books5","instId":"BTC-USDT"}]}
+[okex_websocket]14:23:35.489487 get_orderbook.go:86: websocket连接已断开
+[okex_websocket]14:24:46.560944 get_orderbook.go:80: websocket连接已建立
+[okex_websocket]14:24:46.561748 get_orderbook.go:106: 订阅已申请或取消,订阅json: {"op":"subscribe","args":[{"channel":"books5","instId":"BTC-USDT"}]}
+[okex_websocket]14:24:46.561896 get_orderbook.go:106: 订阅已申请或取消,订阅json: {"op":"subscribe","args":[{"channel":"trades","instId":"BTC-USDT"}]}
+[okex_websocket]14:24:56.571345 get_orderbook.go:106: 订阅已申请或取消,订阅json: {"op":"unsubscribe","args":[{"channel":"books5","instId":"BTC-USDT"}]}
+[okex_websocket]14:24:56.571345 get_orderbook.go:117: websocket_get_err: read tcp 26.26.26.1:59794->104.18.33.32:8443: use of closed network connection
+[okex_websocket]14:24:56.571851 get_orderbook.go:86: websocket连接已断开
+[okex_websocket]14:25:06.757542 get_orderbook.go:80: websocket连接已建立
+[okex_websocket]14:25:06.757926 get_orderbook.go:106: 订阅已申请或取消,订阅json: {"op":"subscribe","args":[{"channel":"books5","instId":"BTC-USDT"}]}
+[okex_websocket]14:25:06.757926 get_orderbook.go:106: 订阅已申请或取消,订阅json: {"op":"subscribe","args":[{"channel":"trades","instId":"BTC-USDT"}]}
+[okex_websocket]14:25:51.404221 get_orderbook.go:80: websocket连接已建立
+[okex_websocket]14:25:51.405518 get_orderbook.go:106: 订阅已申请或取消,订阅json: {"op":"subscribe","args":[{"channel":"books5","instId":"BTC-USDT"}]}
+[okex_websocket]14:25:51.405553 get_orderbook.go:106: 订阅已申请或取消,订阅json: {"op":"subscribe","args":[{"channel":"trades","instId":"BTC-USDT"}]}
+[okex_websocket]14:26:01.407684 get_orderbook.go:106: 订阅已申请或取消,订阅json: {"op":"unsubscribe","args":[{"channel":"books5","instId":"BTC-USDT"}]}
+[okex_websocket]14:26:01.407684 get_orderbook.go:117: websocket_get_err: read tcp 26.26.26.1:59965->104.18.33.32:8443: use of closed network connection
+[okex_websocket]14:26:01.407684 get_orderbook.go:86: websocket连接已断开
+[okex_websocket]14:28:20.038110 get_orderbook.go:80: websocket连接已建立
+[okex_websocket]14:28:20.039713 get_orderbook.go:106: 订阅已申请或取消,订阅json: {"op":"subscribe","args":[{"channel":"books5","instId":"BTC-USDT"}]}
+[okex_websocket]14:28:20.039713 get_orderbook.go:106: 订阅已申请或取消,订阅json: {"op":"subscribe","args":[{"channel":"trades","instId":"BTC-USDT"}]}
+[okex_websocket]14:28:30.052391 get_orderbook.go:106: 订阅已申请或取消,订阅json: {"op":"unsubscribe","args":[{"channel":"books5","instId":"BTC-USDT"}]}
+[okex_websocket]14:28:30.052391 get_orderbook.go:117: websocket_get_err: read tcp 26.26.26.1:60247->104.18.33.32:8443: use of closed network connection
+[okex_websocket]14:28:30.052391 get_orderbook.go:86: websocket连接已断开
+[okex_websocket]14:29:03.282654 get_orderbook.go:80: websocket连接已建立
+[okex_websocket]14:29:03.283120 get_orderbook.go:106: 订阅已申请或取消,订阅json: {"op":"subscribe","args":[{"channel":"books5","instId":"BTC-USDT"}]}
+[okex_websocket]14:29:03.283120 get_orderbook.go:106: 订阅已申请或取消,订阅json: {"op":"subscribe","args":[{"channel":"trades","instId":"BTC-USDT"}]}
+[okex_websocket]14:29:14.300705 get_orderbook.go:106: 订阅已申请或取消,订阅json: {"op":"unsubscribe","args":[{"channel":"books5","instId":"BTC-USDT"}]}
+[okex_websocket]14:29:14.300705 get_orderbook.go:86: websocket连接已断开
+[okex_websocket]14:29:38.780393 get_orderbook.go:80: websocket连接已建立
+[okex_websocket]14:29:38.780954 get_orderbook.go:106: 订阅已申请或取消,订阅json: {"op":"subscribe","args":[{"channel":"books5","instId":"BTC-USDT"}]}
+[okex_websocket]14:29:38.780954 get_orderbook.go:106: 订阅已申请或取消,订阅json: {"op":"subscribe","args":[{"channel":"trades","instId":"BTC-USDT"}]}
+[okex_websocket]14:29:49.791983 get_orderbook.go:106: 订阅已申请或取消,订阅json: {"op":"unsubscribe","args":[{"channel":"books5","instId":"BTC-USDT"}]}
+[okex_websocket]14:29:49.791983 get_orderbook.go:106: 订阅已申请或取消,订阅json: {"op":"unsubscribe","args":[{"channel":"trades","instId":"BTC-USDT"}]}
+[okex_websocket]14:29:49.791983 get_orderbook.go:86: websocket连接已断开
+[okex_websocket]14:29:56.716797 get_orderbook.go:80: websocket连接已建立
+[okex_websocket]14:29:56.717240 get_orderbook.go:106: 订阅已申请或取消,订阅json: {"op":"subscribe","args":[{"channel":"books","instId":"BTC-USDT"}]}
+[okex_websocket]14:29:56.717240 get_orderbook.go:106: 订阅已申请或取消,订阅json: {"op":"subscribe","args":[{"channel":"trades","instId":"BTC-USDT"}]}
+[okex_websocket]14:30:07.721374 get_orderbook.go:106: 订阅已申请或取消,订阅json: {"op":"unsubscribe","args":[{"channel":"books","instId":"BTC-USDT"}]}
+[okex_websocket]14:30:07.721374 get_orderbook.go:106: 订阅已申请或取消,订阅json: {"op":"unsubscribe","args":[{"channel":"trades","instId":"BTC-USDT"}]}
+[okex_websocket]14:30:07.722283 get_orderbook.go:86: websocket连接已断开
+[okex_websocket]14:31:08.063005 get_orderbook.go:80: websocket连接已建立
+[okex_websocket]14:31:08.063005 get_orderbook.go:107: 订阅已申请,订阅json: {"op":"subscribe","args":[{"channel":"books","instId":"BTC-USDT"}]}
+[okex_websocket]14:31:08.063005 get_orderbook.go:107: 订阅已申请,订阅json: {"op":"subscribe","args":[{"channel":"trades","instId":"BTC-USDT"}]}
+[okex_websocket]14:31:19.086008 get_orderbook.go:109: 订阅已取消,订阅json: {"op":"unsubscribe","args":[{"channel":"books","instId":"BTC-USDT"}]}
+[okex_websocket]14:31:19.086008 get_orderbook.go:109: 订阅已取消,订阅json: {"op":"unsubscribe","args":[{"channel":"trades","instId":"BTC-USDT"}]}
+[okex_websocket]14:31:19.086008 get_orderbook.go:86: websocket连接已断开
+[okex_websocket]16:20:40.207535 get_orderbook.go:80: websocket连接已建立
+[okex_websocket]16:20:40.207535 get_orderbook.go:107: 订阅已申请,订阅json: {"op":"subscribe","args":[{"channel":"books","instId":"BTC-USDT"}]}
+[okex_websocket]16:20:40.207535 get_orderbook.go:107: 订阅已申请,订阅json: {"op":"subscribe","args":[{"channel":"trades","instId":"BTC-USDT"}]}
+[okex_websocket]21:18:37.482623 get_orderbook.go:96: 发生错误:Error 1050: Table 'trade_info' already exists
+[okex_websocket]21:19:17.677357 get_orderbook.go:98: mysql返回结果: {0xc000164000 0xc000014fa0}
+[okex_websocket]21:19:17.692358 get_orderbook.go:109: mysql返回结果: {0xc000164000 0xc000014fd0}
+[okex_websocket]21:21:02.700278 get_orderbook.go:98: mysql返回结果: {0xc0000bc000 0xc000088130}
+[okex_websocket]21:21:02.716043 get_orderbook.go:109: mysql返回结果: {0xc0000bc000 0xc000088160}
+[okex_websocket]21:22:15.429668 get_orderbook.go:122: websocket连接已建立
+[okex_websocket]21:22:15.430776 get_orderbook.go:149: 订阅已申请,订阅json: {"op":"subscribe","args":[{"channel":"books","instId":"BTC-USTD"}]}
+[okex_websocket]21:22:15.430911 get_orderbook.go:149: 订阅已申请,订阅json: {"op":"subscribe","args":[{"channel":"trades","instId":"BTC-USTD"}]}
+[okex_websocket]21:23:49.153294 get_orderbook.go:122: websocket连接已建立
+[okex_websocket]21:23:49.153890 get_orderbook.go:149: 订阅已申请,订阅json: {"op":"subscribe","args":[{"channel":"books","instId":"BTC-USTD"}]}
+[okex_websocket]21:23:49.153890 get_orderbook.go:149: 订阅已申请,订阅json: {"op":"subscribe","args":[{"channel":"trades","instId":"BTC-USTD"}]}
+[okex_websocket]21:24:00.169951 get_orderbook.go:151: 订阅已取消,订阅json: {"op":"unsubscribe","args":[{"channel":"books","instId":"BTC-USDT"}]}
+[okex_websocket]21:24:00.169951 get_orderbook.go:151: 订阅已取消,订阅json: {"op":"unsubscribe","args":[{"channel":"trades","instId":"BTC-USDT"}]}
+[okex_websocket]21:24:00.171109 get_orderbook.go:163: websocket_get_err: read tcp 26.26.26.1:50422->47.243.230.145:8443: use of closed network connection
+[okex_websocket]21:24:00.171618 get_orderbook.go:128: websocket连接已断开
+[okex_websocket]21:24:37.442704 get_orderbook.go:122: websocket连接已建立
+[okex_websocket]21:24:37.443005 get_orderbook.go:149: 订阅已申请,订阅json: {"op":"subscribe","args":[{"channel":"books","instId":"BTC-USTD"}]}
+[okex_websocket]21:24:37.443005 get_orderbook.go:149: 订阅已申请,订阅json: {"op":"subscribe","args":[{"channel":"trades","instId":"BTC-USTD"}]}
+[okex_websocket]21:24:58.504757 get_orderbook.go:122: websocket连接已建立
+[okex_websocket]21:24:58.505310 get_orderbook.go:149: 订阅已申请,订阅json: {"op":"subscribe","args":[{"channel":"books","instId":"BTC-USDT"}]}
+[okex_websocket]21:24:58.505310 get_orderbook.go:149: 订阅已申请,订阅json: {"op":"subscribe","args":[{"channel":"trades","instId":"BTC-USDT"}]}
+[okex_websocket]21:25:09.521099 get_orderbook.go:151: 订阅已取消,订阅json: {"op":"unsubscribe","args":[{"channel":"books","instId":"BTC-USDT"}]}
+[okex_websocket]21:25:09.521099 get_orderbook.go:151: 订阅已取消,订阅json: {"op":"unsubscribe","args":[{"channel":"trades","instId":"BTC-USDT"}]}
+[okex_websocket]21:25:09.521099 get_orderbook.go:128: websocket连接已断开
+[okex_websocket]21:25:27.848070 get_orderbook.go:122: websocket连接已建立
+[okex_websocket]21:25:27.848682 get_orderbook.go:149: 订阅已申请,订阅json: {"op":"subscribe","args":[{"channel":"books","instId":"BTC-USDT"}]}
+[okex_websocket]21:25:27.849196 get_orderbook.go:149: 订阅已申请,订阅json: {"op":"subscribe","args":[{"channel":"trades","instId":"BTC-USDT"}]}
+[okex_websocket]21:25:38.872772 get_orderbook.go:151: 订阅已取消,订阅json: {"op":"unsubscribe","args":[{"channel":"books","instId":"BTC-USDT"}]}
+[okex_websocket]21:25:38.872772 get_orderbook.go:151: 订阅已取消,订阅json: {"op":"unsubscribe","args":[{"channel":"trades","instId":"BTC-USDT"}]}
+[okex_websocket]21:25:38.873334 get_orderbook.go:128: websocket连接已断开
+[okex_websocket]21:26:08.346874 get_orderbook.go:122: websocket连接已建立
+[okex_websocket]21:26:08.374770 get_orderbook.go:98: mysql返回结果: {0xc000188000 0xc0001f84c0}
+[okex_websocket]21:26:08.394327 get_orderbook.go:109: mysql返回结果: {0xc000188000 0xc0001f84d0}
+[okex_websocket]21:26:08.394363 get_orderbook.go:149: 订阅已申请,订阅json: {"op":"subscribe","args":[{"channel":"books","instId":"BTC-USDT"}]}
+[okex_websocket]21:26:08.394363 get_orderbook.go:149: 订阅已申请,订阅json: {"op":"subscribe","args":[{"channel":"trades","instId":"BTC-USDT"}]}
+[okex_websocket]21:26:19.424669 get_orderbook.go:151: 订阅已取消,订阅json: {"op":"unsubscribe","args":[{"channel":"books","instId":"BTC-USDT"}]}
+[okex_websocket]21:26:19.424669 get_orderbook.go:151: 订阅已取消,订阅json: {"op":"unsubscribe","args":[{"channel":"trades","instId":"BTC-USDT"}]}
+[okex_websocket]21:26:19.425284 get_orderbook.go:128: websocket连接已断开
+[okex_websocket]21:28:01.393294 get_orderbook.go:122: websocket连接已建立
+[okex_websocket]21:28:01.412825 get_orderbook.go:98: trade_info建表成功
+[okex_websocket]21:28:01.427753 get_orderbook.go:109: orderbook_info建表成功
+[okex_websocket]21:28:01.428008 get_orderbook.go:149: 订阅已申请,订阅json: {"op":"subscribe","args":[{"channel":"books","instId":"BTC-USDT"}]}
+[okex_websocket]21:28:01.428008 get_orderbook.go:149: 订阅已申请,订阅json: {"op":"subscribe","args":[{"channel":"trades","instId":"BTC-USDT"}]}
+[okex_websocket]21:28:12.441018 get_orderbook.go:151: 订阅已取消,订阅json: {"op":"unsubscribe","args":[{"channel":"books","instId":"BTC-USDT"}]}
+[okex_websocket]21:28:12.441018 get_orderbook.go:151: 订阅已取消,订阅json: {"op":"unsubscribe","args":[{"channel":"trades","instId":"BTC-USDT"}]}
+[okex_websocket]21:28:12.441899 get_orderbook.go:128: websocket连接已断开
+[okex_websocket]21:28:44.270828 get_orderbook.go:122: websocket连接已建立
+[okex_websocket]21:28:44.307164 get_orderbook.go:98: trade_info建表成功
+[okex_websocket]21:28:44.322600 get_orderbook.go:109: orderbook_info建表成功
+[okex_websocket]21:28:44.322651 get_orderbook.go:149: 订阅已申请,订阅json: {"op":"subscribe","args":[{"channel":"books5","instId":"BTC-USDT"}]}
+[okex_websocket]21:28:44.322651 get_orderbook.go:149: 订阅已申请,订阅json: {"op":"subscribe","args":[{"channel":"trades","instId":"BTC-USDT"}]}
+[okex_websocket]21:28:55.335193 get_orderbook.go:151: 订阅已取消,订阅json: {"op":"unsubscribe","args":[{"channel":"books5","instId":"BTC-USDT"}]}
+[okex_websocket]21:28:55.335193 get_orderbook.go:151: 订阅已取消,订阅json: {"op":"unsubscribe","args":[{"channel":"trades","instId":"BTC-USDT"}]}
+[okex_websocket]21:28:55.335193 get_orderbook.go:128: websocket连接已断开
+[okex_websocket]22:58:01.088862 get_orderbook.go:141: websocket连接已建立
+[okex_websocket]22:58:01.095873 get_orderbook.go:100: 发生错误:Error 1050: Table 'trade_info' already exists
+[okex_websocket]22:58:22.320631 get_orderbook.go:141: websocket连接已建立
+[okex_websocket]22:58:22.341367 get_orderbook.go:102: trade_info建表成功
+[okex_websocket]22:58:22.359197 get_orderbook.go:128: orderbook_info建表成功
+[okex_websocket]22:58:22.359624 get_orderbook.go:168: 订阅已申请,订阅json: {"op":"subscribe","args":[{"channel":"books5","instId":"BTC-USDT"}]}
+[okex_websocket]22:58:22.359624 get_orderbook.go:168: 订阅已申请,订阅json: {"op":"subscribe","args":[{"channel":"trades","instId":"BTC-USDT"}]}
+[okex_websocket]23:01:13.305548 get_orderbook.go:143: websocket连接已建立
+[okex_websocket]23:01:13.307560 get_orderbook.go:100: 发生错误:Error 1050: Table 'trade_info' already exists
+[okex_websocket]23:01:27.405109 get_orderbook.go:143: websocket连接已建立
+[okex_websocket]23:01:27.426411 get_orderbook.go:102: trade_info建表成功
+[okex_websocket]23:01:27.441594 get_orderbook.go:130: orderbook_info建表成功
+[okex_websocket]23:01:27.441636 get_orderbook.go:170: 订阅已申请,订阅json: {"op":"subscribe","args":[{"channel":"books5","instId":"BTC-USDT"}]}
+[okex_websocket]23:01:27.441636 get_orderbook.go:170: 订阅已申请,订阅json: {"op":"subscribe","args":[{"channel":"trades","instId":"BTC-USDT"}]}
+[okex_websocket]23:01:38.466414 get_orderbook.go:172: 订阅已取消,订阅json: {"op":"unsubscribe","args":[{"channel":"books5","instId":"BTC-USDT"}]}
+[okex_websocket]23:01:38.466414 get_orderbook.go:172: 订阅已取消,订阅json: {"op":"unsubscribe","args":[{"channel":"trades","instId":"BTC-USDT"}]}
+[okex_websocket]23:01:38.467051 get_orderbook.go:149: websocket连接已断开
+[okex_websocket]23:03:14.000864 get_orderbook.go:144: websocket连接已建立
+[okex_websocket]23:03:14.016854 get_orderbook.go:102: trade_info建表成功
+[okex_websocket]23:03:14.031107 get_orderbook.go:131: orderbook_info建表成功
+[okex_websocket]23:03:14.031436 get_orderbook.go:171: 订阅已申请,订阅json: {"op":"subscribe","args":[{"channel":"books5","instId":"BTC-USDT"}]}
+[okex_websocket]23:03:14.031436 get_orderbook.go:171: 订阅已申请,订阅json: {"op":"subscribe","args":[{"channel":"trades","instId":"BTC-USDT"}]}
+[okex_websocket]23:03:25.039952 get_orderbook.go:173: 订阅已取消,订阅json: {"op":"unsubscribe","args":[{"channel":"books5","instId":"BTC-USDT"}]}
+[okex_websocket]23:03:25.039952 get_orderbook.go:173: 订阅已取消,订阅json: {"op":"unsubscribe","args":[{"channel":"trades","instId":"BTC-USDT"}]}
+[okex_websocket]23:03:25.039952 get_orderbook.go:150: websocket连接已断开
+[okex_websocket]23:04:05.336326 get_orderbook.go:144: websocket连接已建立
+[okex_websocket]23:04:05.353269 get_orderbook.go:102: trade_info建表成功
+[okex_websocket]23:04:05.368873 get_orderbook.go:131: orderbook_info建表成功
+[okex_websocket]23:04:05.369108 get_orderbook.go:171: 订阅已申请,订阅json: {"op":"subscribe","args":[{"channel":"books5","instId":"BTC-USDT"}]}
+[okex_websocket]23:04:05.369108 get_orderbook.go:171: 订阅已申请,订阅json: {"op":"subscribe","args":[{"channel":"trades","instId":"BTC-USDT"}]}
+[okex_websocket]23:04:36.381348 get_orderbook.go:173: 订阅已取消,订阅json: {"op":"unsubscribe","args":[{"channel":"books5","instId":"BTC-USDT"}]}
+[okex_websocket]23:04:36.381892 get_orderbook.go:173: 订阅已取消,订阅json: {"op":"unsubscribe","args":[{"channel":"trades","instId":"BTC-USDT"}]}
+[okex_websocket]23:04:36.382488 get_orderbook.go:150: websocket连接已断开
+[okex_websocket]23:04:56.781261 get_orderbook.go:144: websocket连接已建立
+[okex_websocket]23:04:56.781850 get_orderbook.go:100: 发生错误:Error 1050: Table 'trade_info' already exists
+[okex_websocket]23:05:11.413081 get_orderbook.go:144: websocket连接已建立
+[okex_websocket]23:05:11.431164 get_orderbook.go:102: trade_info建表成功
+[okex_websocket]23:05:11.459305 get_orderbook.go:131: orderbook_info建表成功
+[okex_websocket]23:05:11.459593 get_orderbook.go:171: 订阅已申请,订阅json: {"op":"subscribe","args":[{"channel":"books5","instId":"BTC-USDT"}]}
+[okex_websocket]23:05:11.459593 get_orderbook.go:171: 订阅已申请,订阅json: {"op":"subscribe","args":[{"channel":"trades","instId":"BTC-USDT"}]}
+[okex_websocket]23:05:42.481020 get_orderbook.go:173: 订阅已取消,订阅json: {"op":"unsubscribe","args":[{"channel":"books5","instId":"BTC-USDT"}]}
+[okex_websocket]23:05:42.481020 get_orderbook.go:173: 订阅已取消,订阅json: {"op":"unsubscribe","args":[{"channel":"trades","instId":"BTC-USDT"}]}
+[okex_websocket]23:05:42.481584 get_orderbook.go:150: websocket连接已断开
+[okex_websocket]23:06:27.789601 get_orderbook.go:144: websocket连接已建立
+[okex_websocket]23:06:27.815115 get_orderbook.go:102: trade_info建表成功
+[okex_websocket]23:06:27.830633 get_orderbook.go:131: orderbook_info建表成功
+[okex_websocket]23:06:27.830837 get_orderbook.go:171: 订阅已申请,订阅json: {"op":"subscribe","args":[{"channel":"books5","instId":"BTC-USDT"}]}
+[okex_websocket]23:06:27.830837 get_orderbook.go:171: 订阅已申请,订阅json: {"op":"subscribe","args":[{"channel":"trades","instId":"BTC-USDT"}]}
+[okex_websocket]23:06:58.847979 get_orderbook.go:173: 订阅已取消,订阅json: {"op":"unsubscribe","args":[{"channel":"books5","instId":"BTC-USDT"}]}
+[okex_websocket]23:06:58.847979 get_orderbook.go:173: 订阅已取消,订阅json: {"op":"unsubscribe","args":[{"channel":"trades","instId":"BTC-USDT"}]}
+[okex_websocket]23:06:58.847979 get_orderbook.go:150: websocket连接已断开
+[okex_websocket]23:07:28.020259 get_orderbook.go:145: websocket连接已建立
+[okex_websocket]23:07:28.056269 get_orderbook.go:102: trade_info建表成功
+[okex_websocket]23:07:28.071376 get_orderbook.go:132: orderbook_info建表成功
+[okex_websocket]23:07:28.071636 get_orderbook.go:172: 订阅已申请,订阅json: {"op":"subscribe","args":[{"channel":"books5","instId":"BTC-USDT"}]}
+[okex_websocket]23:07:28.071636 get_orderbook.go:172: 订阅已申请,订阅json: {"op":"subscribe","args":[{"channel":"trades","instId":"BTC-USDT"}]}
+[okex_websocket]23:08:33.518644 get_orderbook.go:145: websocket连接已建立
+[okex_websocket]23:08:33.521114 get_orderbook.go:100: 发生错误:Error 1050: Table 'trade_info' already exists
+[okex_websocket]23:08:46.619649 get_orderbook.go:145: websocket连接已建立
+[okex_websocket]23:08:46.661594 get_orderbook.go:102: trade_info建表成功
+[okex_websocket]23:08:46.685441 get_orderbook.go:132: orderbook_info建表成功
+[okex_websocket]23:08:46.685502 get_orderbook.go:172: 订阅已申请,订阅json: {"op":"subscribe","args":[{"channel":"books5","instId":"BTC-USDT"}]}
+[okex_websocket]23:08:46.685502 get_orderbook.go:172: 订阅已申请,订阅json: {"op":"subscribe","args":[{"channel":"trades","instId":"BTC-USDT"}]}
+[okex_websocket]23:09:17.712990 get_orderbook.go:174: 订阅已取消,订阅json: {"op":"unsubscribe","args":[{"channel":"books5","instId":"BTC-USDT"}]}
+[okex_websocket]23:09:17.712990 get_orderbook.go:174: 订阅已取消,订阅json: {"op":"unsubscribe","args":[{"channel":"trades","instId":"BTC-USDT"}]}
+[okex_websocket]23:09:17.712990 get_orderbook.go:151: websocket连接已断开
+[okex_websocket]23:16:44.466762 get_orderbook.go:153: websocket连接已建立
+[okex_websocket]23:16:44.486108 get_orderbook.go:102: trade_info建表成功
+[okex_websocket]23:16:44.501577 get_orderbook.go:140: orderbook_info建表成功
+[okex_websocket]23:16:44.501606 get_orderbook.go:180: 订阅已申请,订阅json: {"op":"subscribe","args":[{"channel":"books5","instId":"BTC-USDT"}]}
+[okex_websocket]23:16:44.501606 get_orderbook.go:180: 订阅已申请,订阅json: {"op":"subscribe","args":[{"channel":"trades","instId":"BTC-USDT"}]}
+[okex_websocket]23:17:15.513665 get_orderbook.go:182: 订阅已取消,订阅json: {"op":"unsubscribe","args":[{"channel":"books5","instId":"BTC-USDT"}]}
+[okex_websocket]23:17:15.513665 get_orderbook.go:182: 订阅已取消,订阅json: {"op":"unsubscribe","args":[{"channel":"trades","instId":"BTC-USDT"}]}
+[okex_websocket]23:17:15.513665 get_orderbook.go:159: websocket连接已断开
+[okex_websocket]23:51:57.504211 get_orderbook.go:166: websocket连接已建立
+[okex_websocket]23:51:57.522392 get_orderbook.go:102: trade_info建表成功
+[okex_websocket]23:51:57.536055 get_orderbook.go:138: orderbook_info建表成功
+[okex_websocket]23:51:57.537029 get_orderbook.go:193: 订阅已申请,订阅json: {"op":"subscribe","args":[{"channel":"books5","instId":"BTC-USDT"}]}
+[okex_websocket]23:51:57.537029 get_orderbook.go:193: 订阅已申请,订阅json: {"op":"subscribe","args":[{"channel":"trades","instId":"BTC-USDT"}]}
+[okex_websocket]23:53:00.202394 get_orderbook.go:167: websocket连接已建立
+[okex_websocket]23:53:00.219808 get_orderbook.go:102: trade_info建表成功
+[okex_websocket]23:53:00.244207 get_orderbook.go:139: orderbook_info建表成功
+[okex_websocket]23:53:00.244382 get_orderbook.go:194: 订阅已申请,订阅json: {"op":"subscribe","args":[{"channel":"books5","instId":"BTC-USDT"}]}
+[okex_websocket]23:53:00.244382 get_orderbook.go:194: 订阅已申请,订阅json: {"op":"subscribe","args":[{"channel":"trades","instId":"BTC-USDT"}]}
+[okex_websocket]23:54:46.754860 get_orderbook.go:167: websocket连接已建立
+[okex_websocket]23:54:46.755987 get_orderbook.go:100: 发生错误:Error 1050: Table 'trade_info' already exists
+[okex_websocket]23:55:04.724790 get_orderbook.go:167: websocket连接已建立
+[okex_websocket]23:55:04.741949 get_orderbook.go:102: trade_info建表成功
+[okex_websocket]23:55:04.756722 get_orderbook.go:139: orderbook_info建表成功
+[okex_websocket]23:55:04.757433 get_orderbook.go:194: 订阅已申请,订阅json: {"op":"subscribe","args":[{"channel":"books5","instId":"BTC-USDT"}]}
+[okex_websocket]23:55:04.757433 get_orderbook.go:194: 订阅已申请,订阅json: {"op":"subscribe","args":[{"channel":"trades","instId":"BTC-USDT"}]}
+[okex_websocket]23:56:27.483103 get_orderbook.go:167: websocket连接已建立
+[okex_websocket]23:56:27.498043 get_orderbook.go:102: trade_info建表成功
+[okex_websocket]23:56:27.512549 get_orderbook.go:139: orderbook_info建表成功
+[okex_websocket]23:56:27.512595 get_orderbook.go:194: 订阅已申请,订阅json: {"op":"subscribe","args":[{"channel":"books5","instId":"BTC-USDT"}]}
+[okex_websocket]23:56:27.512595 get_orderbook.go:194: 订阅已申请,订阅json: {"op":"subscribe","args":[{"channel":"trades","instId":"BTC-USDT"}]}
+[okex_websocket]23:56:58.525617 get_orderbook.go:196: 订阅已取消,订阅json: {"op":"unsubscribe","args":[{"channel":"books5","instId":"BTC-USDT"}]}
+[okex_websocket]23:56:58.525617 get_orderbook.go:196: 订阅已取消,订阅json: {"op":"unsubscribe","args":[{"channel":"trades","instId":"BTC-USDT"}]}
+[okex_websocket]23:56:58.525617 get_orderbook.go:173: websocket连接已断开
+[okex_websocket]23:57:31.635667 get_orderbook.go:167: websocket连接已建立
+[okex_websocket]23:57:31.658664 get_orderbook.go:102: trade_info建表成功
+[okex_websocket]23:57:31.673346 get_orderbook.go:138: orderbook_info建表成功
+[okex_websocket]23:57:31.673616 get_orderbook.go:194: 订阅已申请,订阅json: {"op":"subscribe","args":[{"channel":"books5","instId":"BTC-USDT"}]}
+[okex_websocket]23:57:31.673616 get_orderbook.go:194: 订阅已申请,订阅json: {"op":"subscribe","args":[{"channel":"trades","instId":"BTC-USDT"}]}
+[okex_websocket]23:58:02.696252 get_orderbook.go:196: 订阅已取消,订阅json: {"op":"unsubscribe","args":[{"channel":"books5","instId":"BTC-USDT"}]}
+[okex_websocket]23:58:02.696252 get_orderbook.go:196: 订阅已取消,订阅json: {"op":"unsubscribe","args":[{"channel":"trades","instId":"BTC-USDT"}]}
+[okex_websocket]23:58:02.696252 get_orderbook.go:173: websocket连接已断开
