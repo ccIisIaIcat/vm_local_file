@@ -1,0 +1,10 @@
+[okex_websocket]13:34:10.356405 get_orderbook.go:176: websocket连接已建立
+[okex_websocket]13:34:10.356405 get_orderbook.go:203: 订阅已申请,订阅json: {"op":"subscribe","args":[{"channel":"books5","instId":"ETH-USDT-SWAP"}]}
+[okex_websocket]13:34:10.356910 get_orderbook.go:203: 订阅已申请,订阅json: {"op":"subscribe","args":[{"channel":"trades","instId":"ETH-USDT-SWAP"}]}
+[okex_websocket]13:34:10.358608 get_orderbook.go:154: stmt错误:Error 1146: Table 'orderbook_and_trade_2.orderbook_info' doesn't exist
+[okex_websocket]13:35:13.190432 get_orderbook.go:176: websocket连接已建立
+[okex_websocket]13:35:13.236860 get_orderbook.go:106: trade_info建表成功
+[okex_websocket]13:35:13.252529 get_orderbook.go:145: orderbook_info建表成功
+[okex_websocket]13:35:13.253481 get_orderbook.go:203: 订阅已申请,订阅json: {"op":"subscribe","args":[{"channel":"books5","instId":"ETH-USDT-SWAP"}]}
+[okex_websocket]13:35:13.253481 get_orderbook.go:203: 订阅已申请,订阅json: {"op":"subscribe","args":[{"channel":"trades","instId":"ETH-USDT-SWAP"}]}
+[okex_websocket]13:36:13.254481 get_orderbook.go:414: 服务已运行 0 小时,未发生异常

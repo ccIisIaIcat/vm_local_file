@@ -80,7 +80,7 @@ func (O *Orderbook_info) init() {
 
 	O.signal_logger = true
 	//方便起见直接声明一个用于存放订单簿和交易数据的db
-	dsn := "root" + ":" + "" + "@tcp(127.0.0.1:3306)/" + "orderbook_and_trade"
+	dsn := "root" + ":" + "" + "@tcp(127.0.0.1:3306)/" + "orderbook_and_trade_2"
 	O.db, err = sql.Open("mysql", dsn) //defer db.Close() // 注意这行代码要写在上面err判断的下面
 	if err != nil {
 		fmt.Println("mysql建立链接出错:", err)
@@ -439,5 +439,5 @@ func Start_2(time_minutes int, orderbook_type string, instrument_id string) {
 func main() {
 	//设定录入时间
 	time_length := 24 * 60
-	Start_2(time_length, "books5", "ETH-USDT")
+	Start_2(time_length, "books5", "ETH-USDT-SWAP")
 }
