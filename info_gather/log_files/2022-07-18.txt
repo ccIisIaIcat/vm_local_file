@@ -8,3 +8,11 @@
 [okex_websocket]13:35:13.253481 get_orderbook.go:203: 订阅已申请,订阅json: {"op":"subscribe","args":[{"channel":"books5","instId":"ETH-USDT-SWAP"}]}
 [okex_websocket]13:35:13.253481 get_orderbook.go:203: 订阅已申请,订阅json: {"op":"subscribe","args":[{"channel":"trades","instId":"ETH-USDT-SWAP"}]}
 [okex_websocket]13:36:13.254481 get_orderbook.go:414: 服务已运行 0 小时,未发生异常
+[okex_websocket]14:05:49.629268 get_orderbook.go:176: websocket连接已建立
+[okex_websocket]14:05:49.648473 get_orderbook.go:106: trade_info建表成功
+[okex_websocket]14:05:49.663749 get_orderbook.go:145: orderbook_info建表成功
+[okex_websocket]14:05:49.664668 get_orderbook.go:203: 订阅已申请,订阅json: {"op":"subscribe","args":[{"channel":"books5","instId":"ETH-USDT-SWAP"}]}
+[okex_websocket]14:05:49.664668 get_orderbook.go:203: 订阅已申请,订阅json: {"op":"subscribe","args":[{"channel":"trades","instId":"ETH-USDT-SWAP"}]}
+[okex_websocket]14:06:14.760087 get_orderbook.go:176: websocket连接已建立
+[okex_websocket]14:06:14.760134 get_orderbook.go:203: 订阅已申请,订阅json: {"op":"subscribe","args":[{"channel":"books5","instId":"ETH-USDT-SWAP"}]}
+[okex_websocket]14:06:14.760134 get_orderbook.go:203: 订阅已申请,订阅json: {"op":"subscribe","args":[{"channel":"trades","instId":"ETH-USDT-SWAP"}]}
