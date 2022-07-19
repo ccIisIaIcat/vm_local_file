@@ -2,16 +2,12 @@ package main
 
 import (
 	"fmt"
-	"log"
+	"io/ioutil"
 	"net/http"
-
-	"github.com/PuerkitoBio/goquery"
 )
 
 func get_html_info() {
-	fmt.Println("a")
-	res, err := http.Get("https://www.cmegroup.com/market-data/delayed-quotes/metals.html")
-	fmt.Println("b")
+	res, err := http.Get("http://127.0.0.1:8898")
 	if err != nil {
 		fmt.Println(err)
 	}
@@ -19,11 +15,8 @@ func get_html_info() {
 	if res.StatusCode != 200 {
 		fmt.Printf("status code error: %d %s", res.StatusCode, res.Status)
 	}
-	doc, err := goquery.NewDocumentFromReader(res.Body)
-	if err != nil {
-		log.Fatal(err)
-	}
-	fmt.Println(doc)
+	s, _ := ioutil.ReadAll(res.Body) //把	body 内容读入字符串 s
+	fmt.Println(string(s))
 }
 
 func main() {
